@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true"
+          name="C:/Users/Prakash Udikeri/IdeaProjects/CFP - Automation Testing/June_2nd_Weeek/src/test/java/com/bridgelabz/list/Test_NG.java">
+        <classes>
+            <class name="com.bridgelabz.list.Test_NG">
+                <methods>
+                    <include name="test01"/>
+                    <include name="abc02"/>
+                    <include name="test03"/>
+                    <include name="test04"/>
+                    <include name="lmn05"/>
+                    <include name="test08"/>
+                    <include name="test09"/>
+                    <include name="test10"/>
+                    <include name="test11"/>
+                    <include name="test12"/>
+                    <include name="test13"/>
+                    <include name="test16"/>
+                    <include name="test17"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>
